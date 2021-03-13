@@ -80,7 +80,7 @@ public void setAddress(String ad){
 address = ad;
 }*/
 }
-class customerContoller{
+class customerContoller{;
 public static void main(String args[]){
 customer c1 = new customer();
 /*c1.setCustomerId("c11");
